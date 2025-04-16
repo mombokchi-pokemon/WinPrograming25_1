@@ -1,0 +1,38 @@
+
+# 빌드 출력 파일
+*.obj
+*.exe
+*.dll
+*.pdb
+*.lib
+*.log
+*.tlog
+*.ilk
+*.idb
+*.ipch
+
+# Visual Studio 폴더 및 캐시
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.cache
+*.aps
+
+# 빌드 디렉터리
+x64/
+Debug/
+Release/
+bin/
+build/
+
+# 기타 자동 생성 파일
+*.exe.recipe
+*.tmp
+*.bak
+
+# macOS / Linux 사용자용 (만약 협업 시)
+.DS_Store
